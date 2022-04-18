@@ -1,0 +1,82 @@
+.navbar-dark .navbar-toggler {
+    color:white;
+    border-color:white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color:white;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+	color:#9e9e9e;
+}
+.navbar
+{
+	z-index:99;
+}
+.Portfolio
+{
+	text-align: center;
+	/* margin-top: 10px; */
+	/* margin-left:150px; */
+	/* border-radius: 200px; */
+	/* border:2px solid white; */
+	/* padding:40px; */
+}
+.logo h1
+{
+	text-align: center;
+}
+.nav-wrapper
+{
+	/* background-color:#5fcb71; */
+	width:100%;
+	height:1200px;
+	background-image:url('../img/keyboard-561124_1920.jpg');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:;
+}
+.box
+{
+	box-shadow: #7c7d7f 0px 0px 5px 0px;
+	margin-top:20px;
+	text-align:center;
+	padding:10px;
+}
+.profile
+{
+	text-align:center;
+}
+.profile h1
+{
+	font-size:20px;
+}
+.profile a
+{
+	color:;
+	font-weight:900;
+}
+.profile:hover a{
+	color:black;
+}
+.get
+{
+	border:none;
+	padding:10px;
+	border-radius:20px;
+}
+.get a
+{
+	text-decoration:none;
+}
+.awesome
+{
+	color:white;
+}
+/* .nav-wrapper-2 */
+/* { */
+	/* background-color:; */
+	/* width:100%; */
+	/* height:1200px; */
+/* } */
